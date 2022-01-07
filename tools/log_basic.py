@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@Time ： 2021/10/31
-@Auth ： wb.denglijiao@mesg.corp.netease.com
-@Dev : 
-@Doc Url :
+
 """
 import logging
 import datetime
