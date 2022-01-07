@@ -1,0 +1,25 @@
+Questions:
+  add_question:
+    title: 添加问题
+    url: /api/bs-admin/v1/feedbackHotQuestion/addTopQuestion
+    method: POST
+    data:
+      - [{"enTitle": "sad", "title": "测试"}, {"except_msg": "成功", "status": 1}]
+      - [{"enTitle": "123", "title": "测试11"}, {"except_msg": "成功", "status": 1}]
+
+
+Version:
+  add_version:
+    url:
+    method:
+    in_body:
+    exp_data:
+
+  delete_version:
+    url:
+    method:
+    in_body:
+
+    exp_data:
+      status: 1
+      message: '成功'

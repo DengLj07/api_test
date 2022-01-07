@@ -1,0 +1,7 @@
+name: tom
+age: 20
+
+# 注释符号
+--- #分隔符， 分割多个yaml文件
+info: 第二个
+data: 123
